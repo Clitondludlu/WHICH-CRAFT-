@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="UTF-8>
+  <meta charset="UTF-8">
   <title>Exhibition Catalogue</title>
 </head>
-<body style="text-align:center;
-font-family:sans-serif;">
+<body style="text-align:center; font-family:sans-serif;">
   <h1>Exhibition Catalogue</h1>
-  <p><a href="MR MACHOLO Catalogue.pdf" target="_blank">View the Catalogue
+  <embed src="MR MACHOLO Catalogue.pdf" width="80%" height="600px" type="application/pdf">
+  <p><a href="MR MACHOLO Catalogue.pdf" target="_blank">Download PDF</a></p>
 </body>
-<html>
+</html>
