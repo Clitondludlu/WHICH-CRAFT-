@@ -6,7 +6,7 @@
 </head>
 <body style="text-align:center; font-family:sans-serif;">
   <h1>Exhibition Catalogue</h1>
-  <embed src="MR MACHOLO Catalogue.pdf" width="80%" height="600px" type="application/pdf">
-  <p><a href="MR MACHOLO Catalogue.pdf" target="_blank">Download PDF</a></p>
+  <embed src="MR MACHOLO Catalogue" width="80%" height="600px" type="application/pdf">
+  <p><a href="MR MACHOLO Catalogue" target="_blank">Download PDF</a></p>
 </body>
 </html>
